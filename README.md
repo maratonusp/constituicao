@@ -44,10 +44,10 @@ Alguns assuntos devem ser decididos o quanto antes no ano, idealmente, durante u
 - Como vai funcionar o [recrutamento](#recrutamento)?
 - Quem vai fazer a [seletiva](#seletiva)?
 - Como vão ser os [treinos](#treinos)?
-- Como vão ser as [reuniões mensais](#reunioes-mensais)?
+- Como vão ser as [reuniões mensais](#reuniões-mensais)?
 - Quem vai organizar o [bixeCamp](#bixecamp)?
 - Quem vai organizar o [simulado de bixes](#simulado-de-bixes)?
-- Como vão funcionar as [aulas avançadas](#aulas-avancadas)?
+- Como vão funcionar as [aulas avançadas](#aulas-avançadas)?
 - Como vai funcionar o [acampamento](#acampamento)?
 - Onde vai ser o japonês depois da primeira reunião?
 
