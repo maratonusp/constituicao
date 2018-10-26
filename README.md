@@ -115,6 +115,42 @@ Para facilitar na seleção de exercícios por tópico, necessária tanto na pre
 
 ## bixeCamp
 
+O bixeCamp é um ciclo anual de aulas direcionadas ao calouros da universidade. Em geral, consiste de um semestre no qual são semanalmente cobertos tópicos que são posteriormente cobrados na forma de planilhas de exercícios.
+
+As aulas atualmente oferecidas nesse semestre são:
+
+-Aula 1: Input/output, tipos, condicional, max/min, % ,for, while
+
+-Aula 2: Arrays, matrizes e funções 
+
+-Aula 3: Complexidade
+
+-Aula 4: STL e guloso
+
+-Aula 5: Recursão  e two pointers
+
+-Aula 6: Grafos e dfs
+
+-Aula 7: Structs e Segment Tree e contar inversões
+
+-Aula 8: BFS e Djikstra 
+
+-Aula 9: Geometria Básica
+
+-Aula X: PD (definir data de modo a ser antes de feriado, pois a lista de exercícios é mais extensa)
+
+### bixeCamp do BCC
+
+O primeiro e maior oferencimento do bixeCamp é o que é oferecido aos calouros de Ciências da Computação do IME. Ele acontece de meados de maio até o fim das aulas do primeiro semestre. É nele também que é oferecido o [Simulado de bixes](#simulado).
+
+### bixeCamp da Poli
+
+Oferecido no segundo semestre, é geralmente organizado pelos calouros de Ciências da Computação do mesmo ano, com alguma ajuda nas primeiras aulas.
+
+### bixecamp do CM
+
+O mais instável. Seu sucesso depende diretamente do professor que tiver oferecendo computação naquele ano e da viabilidade de aplicar um contest durante o horário de aula.
+
 ## Simulado de bixes
 
 ## Seletiva
