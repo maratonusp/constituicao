@@ -86,15 +86,46 @@ Básico:
 Intermediário:
 
 - [KAIST RUN Spring 18](http://codeforces.com/gym/101806) - [Editorial (últimas páginas em inglês)](http://run.kaist.ac.kr/contest18s/editorial.pdf)
-- [2016-2017 ACM-ICPC, Asia Tsukuba Regional Contest](http://codeforces.com/gym/101158) - [Editorial](http://icpc.iisf.or.jp/past-icpc/comments/2016-slides.pdf)
-- [2017-2018 ACM-ICPC, Asia Daejeon Regional Contest](http://codeforces.com/gym/101667) - [Informações](http://icpckorea.org/archives/1439) - [Editorial não oficial](http://koosaga.com/195)
+- [2016-2017 Asia Tsukuba Regional Contest](http://codeforces.com/gym/101158) - [Editorial](http://icpc.iisf.or.jp/past-icpc/comments/2016-slides.pdf)
+- [2017-2018 Asia Daejeon Regional Contest](http://codeforces.com/gym/101667) - [Informações](http://icpckorea.org/archives/1439) - [Editorial não oficial](http://koosaga.com/195)
+- [GCPC 2017](https://codeforces.com/gym/101873) - [Editorial](http://gcpc.nwerc.eu/outlines_2017.pdf)
+- [GCPC 2015 + POI 2010](https://codeforces.com/gym/100753) - [Editorial GCPC 2015](http://gcpc.nwerc.eu/outlines_2015.pdf)
+- [NCPC 2018](http://codeforces.com/gym/101933) - [Editorial](https://ncpc.idi.ntnu.no/ncpc2018/ncpc18slides.pdf)
 - [NCPC 2017](http://codeforces.com/gym/101572) - [Editorial](https://ncpc.idi.ntnu.no/ncpc2017/ncpc17slides.pdf)
+- [NCPC 2016](http://codeforces.com/gym/101550) - [Editorial](https://ncpc.idi.ntnu.no/ncpc2016/ncpc2016slides.pdf)
 - [ECPC 2016](http://codeforces.com/gym/101147) 
 - [ECPC 2015](https://codeforces.com/gym/100814) - [Editorial](https://codeforces.com/blog/entry/21567)
+- [PNWERC 2012](http://codeforces.com/gym/101656) - [Editorial](http://www.acmicpc-pacnw.org/ProblemSet/2012/pacnw2012.zip)
+- [PNWERC 2017 Div 1](http://codeforces.com/gym/101615) - [Editorial](http://www.acmicpc-pacnw.org/ProblemSet/2017/alled.pdf)
+- [Samara 2015](https://codeforces.com/gym/100812)
+- [ECNA 2017](https://codeforces.com/gym/101673)
+
 
 ### Problemas categorizados
 
 Para facilitar na seleção de exercícios por tópico, necessária tanto na preparação de aulas, quanto no treinamento direcionado, existem algumas referências que podemos consultar:
+
+#### Listas do MaratonIME
+
+- [Union Find e MST](https://drive.google.com/open?id=13IPFH-zke0Mdq3CxPIXM0HibFV2B_DIREoAXasVE4kI)
+- [Suffix Tree](https://drive.google.com/open?id=1BqMq7dr4Ggu93sdgQ7Bu2ab4xi9BvFhFy_NUBkhUyRk)
+- [Sparse Table, LA, LCA](https://drive.google.com/open?id=1MNGdljJ4OjW0_nxgYjON3w08UUappZ1gqCdBVfbYhzo)
+- [Segment Tree](https://drive.google.com/open?id=118hY6mmzsS-cvg6diXFvW5bMpvZ3pb3rMcFvfkkMm-M)
+- [Programação Dinâmica](https://drive.google.com/open?id=1PfiDHTuoEPhJ7dW6xNMcE-FJC2ea1Zu8new8q54XfMc)
+- [Otimizações em PD (Knuth e Divide)](https://drive.google.com/open?id=1jQo3_fXIocAoLRvlozpqFi2b52MUEwoqm94uvK5diHY)
+- [Número de Grundy](https://drive.google.com/open?id=1iKLrLRugmWnn71TY5hGmDGfIoVM0ljYUAFMtb_IyxC0)
+- [Line Sweep](https://drive.google.com/open?id=1gUJhWlCB63oaanTGJcJf8vx9F2Py9LsBql_NUi9OY8w)
+- [Implementação](https://drive.google.com/open?id=1VXRZeH9F5J0EydFJFtBC8dmUveosPLzp0WhAx0R-BF4)
+- [Grafos (Básico)](https://drive.google.com/open?id=1RMDmv759cmpZjn1zxURWqaVi_L4pBGK2wF4X8M4L79w)
+- [Geometria](https://drive.google.com/open?id=1OK47NPphwo7JGuKB0E6sRtDeZP-43bShsFezj26-oUI)
+- [Fluxo Máximo](https://drive.google.com/open?id=1iOYrLUPG4xbnDjLsRD7tXB3Iti-ytHFrG2fXk3qM4YE)
+- [Exponenciação Rápida e Recorrências Lineares](https://drive.google.com/open?id=1iOYrLUPG4xbnDjLsRD7tXB3Iti-ytHFrG2fXk3qM4YE)
+- [Decomposição em Raiz e Algoritmo de Mo](https://drive.google.com/open?id=1EaWwbhRwokcgznuMiW9ZYBaJzycB584oTt8we1xkGoM)
+
+#### Variados
+
+- [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg)
+- [bixeCamp 2017](https://drive.google.com/open?id=1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk)
 
 - [Trello do Yan](https://trello.com/b/3OauNSyr/competitive-programming-problem-list)
 - [Tabela do Susu](https://docs.google.com/spreadsheets/d/1zbsbYzPfY3z4IsjsYs4Cahy9PJ3IvH2mXsz4pMiu4Zg/edit?usp=sharing)
