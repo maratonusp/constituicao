@@ -89,7 +89,7 @@ Seguindo o princípio da [continuidade](#continuidade), uma grande preocupação
 
 ## Matérias da Graduação
 
-Nada como ganhar créditos fazendo Maratona. No Ime se oferecem duas oportunidades para isso e o MaratonIME possui a responsabilidade de delegar/preparar os professores ou tutores para esses cursos.
+Nada como ganhar créditos fazendo Maratona. No IME se oferecem duas oportunidades para isso e o MaratonIME possui a responsabilidade de delegar/preparar os professores ou tutores para esses cursos.
 
 ### Desafios
 
