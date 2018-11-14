@@ -115,9 +115,9 @@ Para facilitar na seleção de exercícios por tópico, necessária tanto na pre
 
 ## bixeCamp
 
-O bixeCamp é um ciclo anual de aulas direcionadas ao calouros da universidade. Em geral, consiste de um semestre no qual são semanalmente cobertos tópicos que são posteriormente cobrados na forma de planilhas de exercícios.
+O bixeCamp é um ciclo anual de aulas direcionadas ao calouros da universidade. Em geral, consiste de um semestre no qual são semanalmente cobertos tópicos que são posteriormente cobrados na forma de planilhas de exercícios, a qual se encontra no drive da equipe, sendo sempre atualizada com novos exercicios e links, de acordo com o feedback dos calouros daquele ano.
 
-As aulas atualmente oferecidas nesse semestre são:
+As aulas atualmente oferecidas no semestre são:
 
 -Aula 1: Input/output, tipos, condicional, max/min, % ,for, while
 
@@ -141,7 +141,7 @@ As aulas atualmente oferecidas nesse semestre são:
 
 ### bixeCamp do BCC
 
-O primeiro e maior oferecimento do bixeCamp é o direcionado aos calouros de Ciências da Computação do IME. Ele acontece de meados de maio até o fim das aulas do primeiro semestre. Nele também é oferecido o [Simulado de bixes](#simulado).
+O primeiro e maior oferecimento do bixeCamp é o direcionado aos calouros de Ciências da Computação do IME. Ele acontece de meados de maio até o fim das aulas do primeiro semestre, tendo como objetivo a preparação para que os times de calouros possam participar da [Seletiva](#Seletiva). Nele também é oferecido o [Simulado de bixes](#simulado).
 
 ### bixeCamp da Poli
 
@@ -149,9 +149,11 @@ Oferecido no segundo semestre, é geralmente organizado pelos calouros de Ciênc
 
 ### bixecamp do CM
 
-O mais instável. Seu sucesso depende diretamente do professor que estiver oferecendo computação naquele ano e da viabilidade de aplicar um contest durante o horário de aula.
+O mais instável. Seu sucesso depende diretamente do professor que estiver oferecendo computação naquele ano e da viabilidade de aplicar um contest durante o horário de aula, como uma forma de divulgação da Maratona.
 
 ## Simulado de bixes
+
+O simulado dos bixes é um evento realizado entre a metade e o fim do [bixeCamp](#bixeCamp). Tem como objetivo dar uma previa aos calouros sobre como é o ambiente de um contest real, oferecendo problemas mais simples que abranjam temas já vistos, com um prêmio simbolico para o time vencedor.
 
 ## Seletiva
 
