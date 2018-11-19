@@ -81,37 +81,14 @@ Seguindo o princípio da [continuidade](#continuidade), uma grande preocupação
 
 Os treinos têm ocorrido durante as sextas-feiras, das 14h às 19h, horário combinado com os professores do MAC para ser reservado às atividades dos grupos de extensão.
 
-Durante o primeiro semestre, as primeiras horas desse horário, das 14h às 15h30 geralmente, são dedicadas às aulas do bixeCamp, enquanto que durante o segundo semestre, nesse mesmo horário, geralmente acontecem as aulas de nível intermediário e avançado.
+Durante o primeiro semestre, as primeiras horas desse horário, das 14h às 15h30, são geralmente dedicadas às aulas do bixeCamp, enquanto que durante o segundo semestre, nesse mesmo horário, geralmente acontecem as aulas de nível intermediário e avançado.
 
-É comum a ocorrência de simulados semanais organizados entre times, por isso é interessante que se forme um [compilado de contests](#arquivo-de-contests), com provas selecionadas. 
-
-### Arquivo de contests
-
-Essa seção se dedica a armazenar simulados que os membros do MaratonIME já tenham participado, cujos problemas considerem interessantes.
-
+É comum a ocorrência de simulados semanais organizados entre times, por isso é interessante que se forme um compilado de contests, com provas selecionadas. 
 Criando um arquivo de recomendações de simulados, os novos times podem contar com provas de bom nível, cujos problemas eles podem discutir com times mais antigos, que tiverem feito a recomendação.
 
-Básico:
+Além dos simulados, parte do treinamento deve ser dedicado ao aprendizado de novos assuntos. Para auxiliar na escolha de problemas para esse tipo de estudo, existe também um arquivo de listas de exercícios categorizados.
 
-- [Amman Collegiate Programming Contest 2018](http://codeforces.com/gym/101810) - [Editorial](https://codeforces.com/blog/entry/59819) (usado em MashUp)
-
-Intermediário:
-
-- [KAIST RUN Spring 18](http://codeforces.com/gym/101806) - [Editorial (últimas páginas em inglês)](http://run.kaist.ac.kr/contest18s/editorial.pdf)
-- [2016-2017 ACM-ICPC, Asia Tsukuba Regional Contest](http://codeforces.com/gym/101158) - [Editorial](http://icpc.iisf.or.jp/past-icpc/comments/2016-slides.pdf)
-- [2017-2018 ACM-ICPC, Asia Daejeon Regional Contest](http://codeforces.com/gym/101667) - [Informações](http://icpckorea.org/archives/1439) - [Editorial não oficial](http://koosaga.com/195)
-- [NCPC 2017](http://codeforces.com/gym/101572) - [Editorial](https://ncpc.idi.ntnu.no/ncpc2017/ncpc17slides.pdf)
-- [ECPC 2016](http://codeforces.com/gym/101147) 
-- [ECPC 2015](https://codeforces.com/gym/100814) - [Editorial](https://codeforces.com/blog/entry/21567)
-
-### Problemas categorizados
-
-Para facilitar na seleção de exercícios por tópico, necessária tanto na preparação de aulas, quanto no treinamento direcionado, existem algumas referências que podemos consultar:
-
-- [Trello do Yan](https://trello.com/b/3OauNSyr/competitive-programming-problem-list)
-- [Tabela do Susu](https://docs.google.com/spreadsheets/d/1zbsbYzPfY3z4IsjsYs4Cahy9PJ3IvH2mXsz4pMiu4Zg/edit?usp=sharing)
-- [Roteiros de estudo da UFMG](http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros)
-- [Categorias do A2OJ](https://a2oj.com/categories)
+Tanto as recomendações de simulados, quanto as listas categorizadas estão disponíveis [neste quadro](https://trello.com/b/XrxVjfF3). 
 
 ## bixeCamp
 
@@ -158,6 +135,33 @@ O simulado dos bixes é um evento realizado entre a metade e o fim do [bixeCamp]
 ## Seletiva
 
 ## Aulas Avançadas
+
+Deve ser apontado, no início do segundo semestre, alguém que se responsabilize pelo andamento das aulas avançadas. 
+
+É responsabilidade desta pessoa designada:
+
+- Organizar o calendário de aulas: sugerindo tópicos, organizando um formulário de interesse nos tópicos planejados para publicar no facebook e achando professores para ministrar as aulas
+- Auxiliar na preparação das aulas
+- Garantir, sempre que possível, a divulgação prévia das aulas no facebook
+- Incentivar a gravação das aulas avançadas, seja gravando ou procurando alguém que se disponha a gravar a aula
+- Avisar a secretaria do MAC quanto a realização das aulas
+
+Faz parte das responsabilidades de quem dará a aula:
+
+- Realizar a postagem divulgando a aula, com alguma antecedência, sempre que possível
+- Reservar a sala em que a aula será realizada, mandando um email para secmac@ime.usp.br
+- Organizar uma lista de exercícios sobre o assunto da aula (link que pode ajudar: [problemas categorizados](https://trello.com/b/XrxVjfF3))
+
+
+É interessante que se mantenham atualizadas todas informações sobre as aulas [neste quadro](https://trello.com/b/f29mcoXH). 
+As informações estão organizadas em quatro listas: 
+
+- Tópicos: possui cartões com possíveis tópicos para aulas avançadas (ordenados do mais ao menos requisitado), além de um link para o resultado do formulário que determinou os tópicos mais pedidos 
+- Agendadas: aqui se armazenam os tópicos que já possuem um professor e uma data para acontecer
+- Gravadas: mantendo as aulas que já foram gravadas, mas que ainda estão em período de edição de vídeo
+- Publicadas: nesta estão os cards das aulas que foram gravadas, editadas e já publicadas no youtube
+
+Devemos sempre buscar gravar as aulas que oferecemos, deste modo estaremos incentivando não só alunos da USP, mas sim todos que se interessam pela Maratona, criando uma referência muito boa para estudos em português.
 
 ## Matérias da Graduação
 
