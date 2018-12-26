@@ -118,7 +118,7 @@ As aulas atualmente oferecidas no semestre são:
 
 ### bixeCamp do BCC
 
-O primeiro e maior oferecimento do bixeCamp é o direcionado aos calouros de Ciências da Computação do IME. Ele acontece de meados de maio até o fim das aulas do primeiro semestre, tendo como objetivo a preparação para que os times de calouros possam participar da [Seletiva](#Seletiva). Nele também é oferecido o [Simulado de bixes](#simulado).
+O primeiro e maior oferecimento do bixeCamp é o direcionado aos calouros de Ciências da Computação do IME. Ele acontece de meados de maio até o fim das aulas do primeiro semestre, tendo como objetivo a preparação para que os times de calouros possam participar da [Seletiva](#seletiva). Nele também é oferecido o [Simulado de bixes](#simulado-de-bixes).
 
 ### bixeCamp da Poli
 
