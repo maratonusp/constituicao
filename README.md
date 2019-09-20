@@ -1,6 +1,6 @@
-# Constituição do MaratonIME
+# Constituição do MaratonUSP
 
-Nós, representantes do povo do MaratonIME... Isso não é bem uma constituição, é um manual, mas a gente chama do que quiser.
+Nós, representantes do povo do MaratonUSP... Isso não é bem uma constituição, é um manual, mas a gente chama do que quiser.
 
 O objetivo é documentar quais são as preocupações principais envolvidas em administrar o grupo, como realizar algumas ações técnicas tais como postar no site ou outros meios de comunicação, organizar um contest, entre outros.
 
@@ -12,7 +12,7 @@ Este documento está em constante desenvolvimento.
 
 É importante manter sempre em mente a ideia de que esse grupo, para se manter funcionando, não pode depender de uma pessoa só. Ele tem que funcionar como grupo e tem que contar com a colaboração das pessoas envolvidas. Isso é essencial porque:
 
-1. As pessoas tem que treinar além de organizar o grupo.  
+1. As pessoas tem que treinar além de organizar o grupo.
 2. As pessoas, em algum momento, se formam, vão fazer estágio, entre outros e o grupo não deveria parar na ausência de certas pessoas.
 3. Criar um ambiente onde as pessoas tem liberdade para contribuir e são responsáveis pelos seus próprios interesses inclui pessoas que estão a fim de contribuir e levar o grupo adiante.
 
@@ -20,7 +20,11 @@ Este documento está em constante desenvolvimento.
 
 O grupo deve pensar em como vai continuar funcionando após a progressão das gerações do próprio grupo. Isso faz com que seja essencial se preocupar em recrutar novas pessoas e incentivar que o máximo de pessoas participem.
 
-## Coach
+### Ensino
+
+Deve se dar atenção para o ensino e preparo de novos membros do grupo. É de extrema importancia que veteranos se preocupem em dar aulas e preparar listas para a galera nova treinar e aprender. Ademais, com o advento do canal do YouTube, é muito importante que aulas sejam gravadas, pois somos um dos unicos canais que postam videoaulas de programação competitiva em portugues.
+
+## Coach (treinador)
 
 Pera. Mas não é o Coach que toca o grupo? Não. O Coach, idealmente, deveria se preocupar com as seguintes tarefas:
 
@@ -30,6 +34,8 @@ Pera. Mas não é o Coach que toca o grupo? Não. O Coach, idealmente, deveria s
 
 Naturalmente, Coaches costumam se propor a fazer mais, como, idealmente, organizar contests, montar listas interessantes, reservar salas de treino ou aulas, entre outros.
 
+Nosso coach, ainda, não é quântico.
+
 ## Reuniões
 
 Uma diretiva geral que vem funcionando bem para reuniões de um grupo que funciona tão distribuidamente é a de delegar responsabilidades. A ideia funciona assim:
@@ -37,6 +43,8 @@ Uma diretiva geral que vem funcionando bem para reuniões de um grupo que funcio
 - Cada proposta tem um responsável. Esta pessoa fica incumbida de fazer com que a proposta seja encaminhada.
 - Seguindo o princípio de [proatividade](#proatividade), o responsável deve se voluntariar a ter essa tarefa.
 - Se ninguém se voluntaria, a tarefa não vai ser supervisionada e a proposta não vai pra frente. Só vão ser carregadas propostas com pessoas interessadas em realizá-las.
+
+Vale lembrar que toda reunião vai ter uma **ata**, então, caso você não possa comparecer á ela, basta ler a ata.
 
 ### Reunião de começo de ano
 
@@ -57,7 +65,7 @@ As reuniões mensais vêm sendo uma forma muito boa de acompanhar, com facilidad
 
 A reunião idealmente dura uma hora e, atualmente, acontece das 12h às 13h da última sexta-feira de cada mês, já que ninguém tem aula nesse horário. A ideia é que ela seja mesmo bem rápida, uma forma fácil de participar e acompanhar o progresso do grupo, permitindo que os participantes fiquem focados no que importa pra eles.
 
-O coach organiza estas reuniões, é uma maneira fácil de manter-lo atualizado e uma tradição simples e eficiente para passar adiante para o próximo coach. A reunião deve ser compartilhada publicamente, qualquer um pode participar. A divulgação da reunião deve conter um documento publicamente editável [como esse](https://docs.google.com/document/d/1tt09q3HKr-sPY55PwIOc4MBPCUyxr3IW8S9m686S8e4/edit?usp=drive_web&ouid=113879148348501304785) onde as pessoas podem adicionar pautas, assuntos que interessam para elas e questões que elas querem levantar.
+Qualquer pessoa pode organizar/covocar essa reunião, basta fazer um Doodle e chamar a galera. A reunião deve ser compartilhada publicamente, qualquer um pode participar. A divulgação da reunião deve conter um documento publicamente editável [como esse](https://docs.google.com/document/d/1tt09q3HKr-sPY55PwIOc4MBPCUyxr3IW8S9m686S8e4/edit?usp=drive_web&ouid=113879148348501304785) onde as pessoas podem adicionar pautas, assuntos que interessam para elas e questões que elas querem levantar.
 
 No começo da reunião, é revisada a pauta da reunião passada e as pessoas responsáveis por cada ponto atualizam as outras, rapidamente, sobre qual foi o progresso (ou não). A seguir, cada item da pauta da reunião atual é visitado e quem quer que tenha escrito aquilo (ou um representante) apresenta o assunto. Pode haver uma breve discussão, mas é importante que ela seja breve, e um responsável por aquele tema é decidido, se for necessário e possível. O foco dessa reunião é designar responsáveis.
 
@@ -72,7 +80,7 @@ Seguindo o princípio da [continuidade](#continuidade), uma grande preocupação
 - bixeCamp
 - Simulado de bixes
 - Seletiva
-- Aulas Avançadas 
+- Aulas Avançadas
 - Matérias de Graduação
 
 ### Novas/Propostas
@@ -83,12 +91,12 @@ Os treinos têm ocorrido durante as sextas-feiras, das 14h às 19h, horário com
 
 Durante o primeiro semestre, as primeiras horas desse horário, das 14h às 15h30, são geralmente dedicadas às aulas do bixeCamp, enquanto que durante o segundo semestre, nesse mesmo horário, geralmente acontecem as aulas de nível intermediário e avançado.
 
-É comum a ocorrência de simulados semanais organizados entre times, por isso é interessante que se forme um compilado de contests, com provas selecionadas. 
+É comum a ocorrência de simulados semanais organizados entre times, por isso é interessante que se forme um compilado de contests, com provas selecionadas.
 Criando um arquivo de recomendações de simulados, os novos times podem contar com provas de bom nível, cujos problemas eles podem discutir com times mais antigos, que tiverem feito a recomendação.
 
 Além dos simulados, parte do treinamento deve ser dedicado ao aprendizado de novos assuntos. Para auxiliar na escolha de problemas para esse tipo de estudo, existe também um arquivo de listas de exercícios categorizados.
 
-Tanto as recomendações de simulados, quanto as listas categorizadas estão disponíveis [neste quadro](https://trello.com/b/XrxVjfF3). 
+Tanto as recomendações de simulados, quanto as listas categorizadas estão disponíveis [neste quadro](https://trello.com/b/XrxVjfF3).
 
 ## bixeCamp
 
@@ -98,7 +106,7 @@ As aulas atualmente oferecidas no semestre são:
 
 -Aula 1: Input/output, tipos, condicional, max/min, % ,for, while
 
--Aula 2: Arrays, matrizes e funções 
+-Aula 2: Arrays, matrizes e funções
 
 -Aula 3: Complexidade
 
@@ -110,7 +118,7 @@ As aulas atualmente oferecidas no semestre são:
 
 -Aula 7: Structs e Segment Tree e contar inversões
 
--Aula 8: BFS e Djikstra 
+-Aula 8: BFS e Djikstra
 
 -Aula 9: Geometria Básica
 
@@ -134,17 +142,18 @@ O simulado dos bixes é um evento realizado entre a metade e o fim do [bixeCamp]
 
 ## Seletiva
 
+A seletiva do MaratonUSP tem como objetivo selecionar os times que irão representar a USP nas competições oficiais. Como dito anteriormente, a organização da seletiva fica para o coach.
+
 ## Aulas Avançadas
 
-Deve ser apontado, no início do segundo semestre, alguém que se responsabilize pelo andamento das aulas avançadas. 
+Deve ser apontado, no início do segundo semestre, alguém que se responsabilize pelo andamento das aulas avançadas.
 
 É responsabilidade desta pessoa designada:
 
 - Organizar o calendário de aulas: sugerindo tópicos, organizando um formulário de interesse nos tópicos planejados para publicar no facebook e achando professores para ministrar as aulas
 - Auxiliar na preparação das aulas
-- Garantir, sempre que possível, a divulgação prévia das aulas no facebook
-- Incentivar a gravação das aulas avançadas, seja gravando ou procurando alguém que se disponha a gravar a aula
-- Avisar a secretaria do MAC quanto a realização das aulas
+- Garantir, sempre que possível, a divulgação prévia das aulas no facebook e em grupos do Telegram
+- **Incentivar a gravação das aulas avançadas**, seja gravando ou procurando alguém que se disponha a gravar a aula
 
 Faz parte das responsabilidades de quem dará a aula:
 
@@ -152,11 +161,10 @@ Faz parte das responsabilidades de quem dará a aula:
 - Reservar a sala em que a aula será realizada, mandando um email para secmac@ime.usp.br
 - Organizar uma lista de exercícios sobre o assunto da aula (link que pode ajudar: [problemas categorizados](https://trello.com/b/XrxVjfF3))
 
+É interessante que se mantenham atualizadas todas informações sobre as aulas [neste quadro](https://trello.com/b/f29mcoXH).
+As informações estão organizadas em quatro listas:
 
-É interessante que se mantenham atualizadas todas informações sobre as aulas [neste quadro](https://trello.com/b/f29mcoXH). 
-As informações estão organizadas em quatro listas: 
-
-- Tópicos: possui cartões com possíveis tópicos para aulas avançadas (ordenados do mais ao menos requisitado), além de um link para o resultado do formulário que determinou os tópicos mais pedidos 
+- Tópicos: possui cartões com possíveis tópicos para aulas avançadas (ordenados do mais ao menos requisitado), além de um link para o resultado do formulário que determinou os tópicos mais pedidos
 - Agendadas: aqui se armazenam os tópicos que já possuem um professor e uma data para acontecer
 - Gravadas: mantendo as aulas que já foram gravadas, mas que ainda estão em período de edição de vídeo
 - Publicadas: nesta estão os cards das aulas que foram gravadas, editadas e já publicadas no youtube
@@ -165,18 +173,18 @@ Devemos sempre buscar gravar as aulas que oferecemos, deste modo estaremos incen
 
 ## Matérias da Graduação
 
-Nada como ganhar créditos fazendo Maratona. No IME se oferecem duas oportunidades para isso e o MaratonIME possui a responsabilidade de delegar/preparar os professores ou tutores para esses cursos.
+Nada como ganhar créditos fazendo Maratona. No IME se oferecem duas oportunidades para isso e o MaratonUSP possui a responsabilidade de delegar/preparar os professores ou tutores para esses cursos.
 
 ### Desafios
 
 Idealmente ocorrerá duas matérias:
 
-- Desafios I: Destinada aos iniciantes em programação competitiva. É necessário conhecimento de MAC0110. 
-- Desafios II: Destinada aos veteranos em programação competitiva. 
+- Desafios I: Destinada aos iniciantes em programação competitiva. É necessário conhecimento de MAC0110.
+- Desafios II: Destinada aos veteranos em programação competitiva.
 
-Nas matérias geralmente ocorrem 2 contests semanais que possuem em torno de 5 problemas cada de diferentes graus de dificuldade. O professor é responsável por construir os contests e dar aulas sobre os assuntos que venham a cair nas provas. 
+Nas matérias geralmente ocorrem 2 contests semanais que possuem em torno de 5 problemas cada de diferentes graus de dificuldade. O professor é responsável por construir os contests e dar aulas sobre os assuntos que venham a cair nas provas.
 
-### MAC0214 Atividade Curricular em Cultura e Extensão 
+### MAC0214 Atividade Curricular em Cultura e Extensão
 
 No caso de destinar para Maratona de Programação, o aluno se proporia a desenvolver atividades como resolução de contests e listas de exercícios, dar aulas e outras atividades que totalizassem pelo menos 100 horas. Para isso é necessário um tutor que acompanhe o progresso do aluno e valide as suas atividades.
 
@@ -188,14 +196,17 @@ Tradicionalmente, a tarefa de tutor é assumida pelo Coach. Para mais informaç�
 
 ### Onde as coisas devem ser postadas?
 
-### Site
-
-### Facebook
-
-### Grupos de Telegram
-
-### Canal do Telegram
+- Site
+- Facebook
+- Grupos de Telegram
+- Canal do Telegram
 
 ## Google Drive
 
+Nosso Drive armazenana listas, tutoriais e arquivos importantes para o grupo. Para entrar, simplesmente peça para algum dos membros mais velhos do grupo. É importante manter a ordem e organização dentro dele, então não faça baderna e não apague coisas sem ter certeza do que esta fazendo (ou seja, quase nunca).
+
+Note que os links de listas da pagina do MaratonUSP redirecionam para os arquivos do drive, **então não mude os arquivos das listas de lugar**.
+
 ### Gravações
+
+Não menos importante, existe a pasta **YouTube** em nosso Drive. Nela ficam dois ótimo tutoriais em video de como fazer a gravação de aulas, além de todos os arquivos necessarios para te auxiliar.
