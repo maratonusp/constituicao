@@ -4,7 +4,7 @@ Nós, representantes do povo do MaratonUSP... Isso não é bem uma constituiçã
 
 O objetivo é documentar quais são as preocupações principais envolvidas em administrar o grupo, como realizar algumas ações técnicas tais como postar no site ou outros meios de comunicação, organizar um contest, entre outros.
 
-Este documento está em constante desenvolvimento.
+Este documento está em constante desenvolvimento. Há documentos auxiliares documentando profundamente seções do mesmo, como o regulamento do BixeCamp.
 
 ## Princípios
 
@@ -102,27 +102,7 @@ Tanto as recomendações de simulados, quanto as listas categorizadas estão dis
 
 O bixeCamp é um ciclo anual de aulas direcionadas ao calouros da universidade. Em geral, consiste de um semestre no qual são semanalmente cobertos tópicos que são posteriormente cobrados na forma de planilhas de exercícios, a qual se encontra no drive da equipe, sendo sempre atualizada com novos exercicios e links, de acordo com o feedback dos calouros daquele ano.
 
-As aulas atualmente oferecidas no semestre são:
-
--Aula 1: Input/output, tipos, condicional, max/min, % ,for, while
-
--Aula 2: Arrays, matrizes e funções
-
--Aula 3: Complexidade
-
--Aula 4: STL e guloso
-
--Aula 5: Recursão  e two pointers
-
--Aula 6: Grafos e dfs
-
--Aula 7: Structs e Segment Tree e contar inversões
-
--Aula 8: BFS e Djikstra
-
--Aula 9: Geometria Básica
-
--Aula X: PD (definir data de modo a ser antes de feriado, pois a lista de exercícios é mais extensa)
+Mais instruções sobre o BixeCamp são encontradas em documento auxiliar neste repositório. A seguir descrevemos algumas modalidades do BixeCamp.
 
 ### bixeCamp do BCC
 
