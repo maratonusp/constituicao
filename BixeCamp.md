@@ -1,6 +1,6 @@
 # Orientações sobre o BixeCamp e Simulado dos Bixos
 
-Este documento versa sobre a estrutura do BixeCamp e do simulado dos bixos.
+Este documento versa sobre a estrutura do BixeCamp e do Simulado dos Bixos.
 
 # BixeCamp
 
@@ -41,9 +41,9 @@ A lista de exercícios (ou outros meios de praticar o conteúdo visto em aula) �
 
 
 ## Estrutura
-O Bixecamp normalmente consiste de 10 a 12 aulas, sendo duas delas dedicadas ao simulado dos bixos. Aqui detalhamos uma possível estrutura para o BixeCamp, que é modular, cada ano podem haver alterações desde que baseiam-se no proposto a seguir:
+O BixeCamp normalmente consiste de 10 a 12 aulas, sendo duas delas dedicadas ao simulado dos bixos. Aqui detalhamos uma possível estrutura para o BixeCamp, que é modular, cada ano podem haver alterações desde que baseiam-se no proposto a seguir.
 
-No que segue estão as descrições do conteúdo programático das aulas. Conteúdos opcionais devem ser decididos pela comissão do bixecamp. Em cada conteúdo teremos três recomendações dispostas da seguinte maneira
+No que segue estão as descrições do conteúdo programático das aulas. Conteúdos opcionais devem ser decididos pela comissão do BixeCamp. Em cada conteúdo teremos três recomendações dispostas da seguinte maneira
 
 (professor principal, professor auxiliar, lista de exercícios)
 
@@ -62,7 +62,7 @@ No que segue estão as descrições do conteúdo programático das aulas. Conte�
     * Vetor de update (SPOJ: updateit);
     * Básico de strings.
 
-* Recursão, complexidade e ordenação (professor veterano, auxiliar bixo, contest em duplas/trios)
+* Recursão, complexidade e ordenação (professor veterano, auxiliar bixo, mashup em duplas/trios)
     * Fibonacci;
     * Falar sobre constantes;
     * Ordenação de vetor e sua complexidade.
@@ -93,15 +93,13 @@ No que segue estão as descrições do conteúdo programático das aulas. Conte�
     * Mochila;
     * Problemas de combinatória (opcional).
 
-* Tópico Opcional + Como treinar / Próximos passos (Professor __VETERANO__, livre, lista)
+* Tópico Opcional + Como treinar / Próximos passos (professor __VETERANO__, livre, lista)
 
 
 
 ### Orientações
 
-Contest: O contest deve ser uma lista convertida em mashup no vjudge. O objetivo é tornar a atividade mais divertida.
-
-Mashup: Tal qual o contest, mas os veteranos devem intervir ativamente nos grupos, perguntado e oferecendo ajuda. O objetivo não é que os veteranos formem times com os ingressantes. É uma lista em grupo, não um contest pra valer.
+Mashup: O mashup deve ser uma lista convertida em contest no Vjudge, mas os veteranos devem intervir ativamente nos grupos, perguntando e oferecendo ajuda. O objetivo não é que os veteranos formem times com os ingressantes, e sim tornar a atividade mais divertida. É uma lista em grupo, não um contest pra valer.
 
 __VETERANO__: Competidor experiente, de preferência que tem facilidade com grandes grupos (primeira aula).
 
@@ -150,7 +148,7 @@ Por outro lado, é melhor evitar sites como LiveArchive e UVA devido a sua insta
 
 Recomenda-se que os primeiros exercícios da lista sejam de aplicação direta do conteúdo visto em aula, ou até mesmo exercícios que foram já feitos na própria aula. A dificuldade deve ser gradual nos demais, é interessante priorizar exercícios com ideias legais e que podem ser úteis em outros contextos.
 
-No futuro pretendemos ter planos de aula base para cada aula. Entretanto, já existem alguns materiais no drive do MaratonUSP nesse sentido, como os roteiros deste [link](https://drive.google.com/drive/folders/1Jr2G0b-yL1q-z-LpSacd1KeFKzJmTwZr?usp=drive_link).
+No futuro pretendemos ter planos de aula base para cada aula. Entretanto, já existem alguns materiais no drive do MaratonUSP nesse sentido, como os roteiros neste [link](https://drive.google.com/drive/folders/1Jr2G0b-yL1q-z-LpSacd1KeFKzJmTwZr?usp=drive_link).
 
 
 # Simulado dos bixos
